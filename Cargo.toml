@@ -1,0 +1,11 @@
+[package]
+name = "visual-studio-ids"
+version = "1.0.0"
+authors = ["FaultyRAM <316014+FaultyRAM@users.noreply.github.com>"]
+edition = "2018"
+description = "Visual Studio product, workload and component IDs."
+readme = "README.md"
+repository = "https://github.com/FaultyRAM/visual-studio-ids"
+license = "Apache-2.0 OR MIT"
+keywords = ["visual-studio", "product", "workload", "component", "enumeration"]
+categories = ["development-tools", "no-std"]
