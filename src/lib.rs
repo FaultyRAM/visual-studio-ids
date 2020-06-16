@@ -102,5 +102,7 @@ macro_rules! enumerate_id_set {
 }
 
 mod product;
+mod workload;
 
 pub use product::Product;
+pub use workload::Workload;
